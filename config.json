@@ -72,6 +72,25 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "python-unit-testing",
+      "title": "Python Unit Testing & Quality Assurance",
+      "description": "Learn to write robust, maintainable code by mastering unit testing with pytest and measuring code quality",
+      "path": "assignments/python-unit-testing",
+      "dueDate": "2026-07-09",
+      "attachments": [
+        {
+          "name": "Calculator Module",
+          "file": "calculator.py",
+          "type": "python"
+        },
+        {
+          "name": "Test Suite",
+          "file": "test_calculator.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
